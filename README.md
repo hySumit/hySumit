@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html,Css,Java-Script,React**
 
-- 👨‍💻Portfolio Link [https://hysumit-portfolio.netlify.app/](https://https://hysumit-portfolio.netlify.app/)
+- 👨‍💻Portfolio Link [Click Here](https://hysumit-portfolio.netlify.app/)
 
 <!-- - 💬 Ask me about **Html,Css,JavaScript** -->
 
