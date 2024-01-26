@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sumitbth67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/198zrR3F2Qk8WmmYLaPlzgKaXou--bnjc/view?usp=sharing](https://drive.google.com/file/d/198zrR3F2Qk8WmmYLaPlzgKaXou--bnjc/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/198zrR3F2Qk8WmmYLaPlzgKaXou--bnjc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
