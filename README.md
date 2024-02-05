@@ -9,7 +9,7 @@
 
 - 👨‍💻Portfolio Link [Click Here](https://hysumit-portfolio.netlify.app/)
 
-<!-- - 💬 Ask me about **Html,Css,JavaScript** -->
+<!-- - 💬 Ask me about **Html,Css,JavaScript**-->
 
 - 📫 How to reach me **sumitbth67@gmail.com**
 
