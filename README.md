@@ -1,11 +1,11 @@
 ![Logo](https://github.com/hySumit/TinDogPage/assets/112721086/7dd14e0b-9728-4d6f-8b46-2163b0b8c171)
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Full-Stack (MERN) developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hysumit&label=Profile%20views&color=0e75b6&style=flat" alt="hysumit" /> </p>
 
-- 🌱 I’m currently learning **Html,Css,Java-Script,React**
+- 🌱 I’m currently learning **Advance DSA**
 
 - 👨‍💻Portfolio Link [Click Here](https://hysumit.github.io/portfolio1.0/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sumitbth67@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/198zrR3F2Qk8WmmYLaPlzgKaXou--bnjc/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6698d06946dabfd723485837)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
