@@ -1,7 +1,7 @@
 ![Logo](https://github.com/hySumit/TinDogPage/assets/112721086/7dd14e0b-9728-4d6f-8b46-2163b0b8c171)
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center"> Aspiring Full-Stack (MERN) developer from India</h3>
+<h3 align="center">Full-Stack (MERN) developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hysumit&label=Profile%20views&color=0e75b6&style=flat" alt="hysumit" /> </p>
 
